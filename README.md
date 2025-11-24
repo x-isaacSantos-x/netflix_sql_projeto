@@ -2,9 +2,6 @@
 
 # Project for analyzing the Netflix catalog, focusing on efficient queries and data visualization in a large-scale database.
 
-![Netflix logo](https://github.com/x-isaacSantos-x/netflix_sql_projeto/blob/main/logo-netflix.png)
-# Netflix Movies and TV Shows Data Analysis using SQL
-
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ## Overview
@@ -20,8 +17,6 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ## Dataset
 
 The data for this project is sourced from the Kaggle dataset:
-
-- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Schema
 
